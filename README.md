@@ -8,7 +8,7 @@ Everything in this collection is free to use, adapt, and share. You can use it i
 
 | Name | Description | Age group | Duration | Open it |
 | --- | --- | --- | --- | --- |
-| Level Up: AI & You | An interactive, game-style 60-minute session where teams earn XP while learning how AI works, how it can be biased, and how to spot AI-powered scams and fake profiles. | 12–16 | 60 minutes | [Open it](https://[YOUR-USERNAME].github.io/[REPO-NAME]/Level-Up-AI-and-You.html) |
+| Level Up: AI & You | An interactive, game-style 60-minute session where teams earn XP while learning how AI works, how it can be biased, and how to spot AI-powered scams and fake profiles. | 12–16 | 60 minutes | [Open it](https://julia-io.github.io/ai-education-resources/Sessions/Level-Up-AI-and-You.html) |
 
 ## How to use
 
