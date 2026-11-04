@@ -9,12 +9,15 @@ Everything in this collection is free to use, adapt, and share. You can use it i
 | Name | Description | Age group | Duration | Open it |
 | --- | --- | --- | --- | --- |
 | Level Up: AI & You | An interactive, game-style 60-minute session where teams earn XP while learning how AI works, how it can be biased, and how to spot AI-powered scams and fake profiles. | 12–16 | 60 minutes | [Open it](https://julia-io.github.io/ai-education-resources/Sessions/Level-Up-AI-and-You.html) |
+| Level Up 2: How Apps Really Work | The follow-up to Level Up: AI & You, where teams keep earning XP while learning how front ends, back ends, APIs and databases fit together, where LLMs come in, and how to write strong prompts for vibe coding. | 12–16 | 60 minutes | [Open it](https://julia-io.github.io/ai-education-resources/Sessions/Level-Up-2-How-Apps-Really-Work.html) |
 
 ## How to use
 
 Open the link in any browser. There is no install step and no account needed.
 
-Use the arrow keys to move between slides, press X to open the team scoreboard, and press Space for the 3-2-1 vote countdown. This works best on a projector or a large screen so the whole group can see it clearly.
+Use the arrow keys to move between slides. This works best on a projector or a large screen so the whole group can see it clearly.
+
+In Level Up: AI & You, press X to open the team scoreboard and press Space for the 3-2-1 vote countdown. Level Up 2 does not have these built in, so keep the XP scores on a board and count down out loud.
 
 ## Adapting the materials
 
