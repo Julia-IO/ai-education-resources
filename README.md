@@ -1,6 +1,6 @@
 # AI education resources
 
-This collection brings together free, open classroom resources for teaching AI literacy and online safety to teenagers aged 12 to 16. It is designed for teachers, school staff, and parents who want practical, ready-to-use sessions that are easy to run without specialist technical knowledge.
+This collection brings together free, open classroom resources for teaching AI literacy and online safety to teenagers aged 8 to 16. It is designed for teachers, school staff, and parents who want practical, ready-to-use sessions that are easy to run without specialist technical knowledge.
 
 Everything in this collection is free to use, adapt, and share. You can use it in class, in workshops, or at home, and you can adjust it to suit your learners.
 
